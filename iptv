@@ -79,3 +79,121 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:0 type="stream" channelId="-1", Drochia TV
 https://hls.drochia.tv/tv/web.m3u8
+#EXTM3U
+#EXTINF:0 type="stream" channelId="846", Item 1
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:0 type="stream" channelId="1976", Publika
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:0 type="stream" channelId="3917", acb
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="860", nst
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Music
+http://rtmp.one.by:2200
+#EXTINF:0 type="stream" channelId="299", Zoo TV
+http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:0 type="stream" channelId="722", Inter
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:0 type="stream" channelId="138", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Мардовиа
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="136", Муз TV
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:0 type="stream" channelId="1722", Мулит
+http://185.118.50.219:8080/RU-mult/index.m3u8
+#EXTINF:0 type="stream" channelId="1820", Новорасиа
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:0 type="stream" channelId="3171", Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="300", Охотник и Рыболов
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:0 type="stream" channelId="844", Русский Север
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:0 type="stream" channelId="843", Север
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:0 type="stream" channelId="302", Телепутешествия
+http://ott-cdn.ucom.am/s71/04.m3u8
+#EXTINF:0 type="stream" channelId="22", Че
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:0 type="stream" channelId="47", Шансон ТВ
+http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:0 type="stream" channelId="1811", Оплoт 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0 type="stream" channelId="634", 100 news
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:0 type="stream" channelId="-1", IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1114", lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", nano tv
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 type="stream" channelId="-1", belgorod
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Калейдоскоп
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Item 30
+#EXTINF:0 type="stream" channelId="-1" group="Новое Радио ТВ", Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Новое Телевидение HD
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", \,Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Радио Шансон TV
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ICTV UA
+http://46.63.0.9:8001/ictv
+#EXTINF:0 type="stream" channelId="-1", ICTV Ukraine
+http://46.63.0.9:8001/ictv
+#EXTINF:0 type="stream" channelId="-1", CTБ/ТВ Бердянськ
+https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Discovery Science HD
+http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nat Geo Wild
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Космический HD
+http://92.43.140.249/s44/04.m3u8?codec=mpeg4
+#EXTINF:0 type="stream" channelId="-1", Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 type="stream" channelId="-1", Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Viasat Nature", Viasat Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Viasat Explore", Viasat Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Viasat History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Моя Стихия HD
+http://46.174.83.66/Morskoi_HD/mpegts
+#EXTINF:0 type="stream" channelId="-1", Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Конный мир HD
+http://83.222.205.10:38080/konnyimir/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", nano tv
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 type="stream" channelId="-1", ДВ STREAM
+http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:0 type="stream" channelId="-1", Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
