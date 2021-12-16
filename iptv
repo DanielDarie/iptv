@@ -87,8 +87,6 @@ http://livebeta.publika.md/LIVE/P/1500.m3u8
 http://212.73.81.237:8000/play/a035/index.m3u8
 #EXTINF:0 type="stream" channelId="300", Охотник и Рыболов
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:0 type="stream" channelId="3917", acb
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="860", nst
 http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", m2o
