@@ -85,8 +85,6 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:0 type="stream" channelId="3917", acb
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="860", nst
-http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Music
@@ -299,6 +297,8 @@ https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
 http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:0 type="stream" channelId="-1", Paradox HD
 http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 type="stream" channelId="860", nst
+http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Premiere HD
 http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:0 type="stream" channelId="-1", Premium HD
