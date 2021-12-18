@@ -187,8 +187,6 @@ http://ott-cdn.ucom.am/s87/04.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Music
 http://rtmp.one.by:2200
-#EXTINF:0 type="stream" channelId="299", Zoo TV
-http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:0 type="stream" channelId="722", Inter
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:0 type="stream" channelId="138", Мир
