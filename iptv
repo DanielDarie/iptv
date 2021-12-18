@@ -131,7 +131,7 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:0 type="stream" channelId="53", Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Новое Радио ТВ", Новое Радио ТВ
+#EXTINF:0 type="stream" channelId="-1" , Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Новое Телевидение HD
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -165,9 +165,9 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:0 type="stream" channelId="234", HDL
 https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:0 type="stream" channelId="172" group="Viasat Nature", Viasat Nature
+#EXTINF:0 type="stream" channelId="172" , Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:0 type="stream" channelId="165" group="Viasat Explore", Viasat Explore
+#EXTINF:0 type="stream" channelId="165" , Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" channelId="166", Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
@@ -231,7 +231,7 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:0 type="stream" channelId="53", Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Новое Радио ТВ", Новое Радио ТВ
+#EXTINF:0 type="stream" channelId="-1" , Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Новое Телевидение HD
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
