@@ -113,10 +113,25 @@ http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:0 type="stream" channelId="22", Че
 http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1,360° Подмосковье HD
+#EXTGRP:Российские
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0 type="stream" channelId="47", Шансон ТВ
 http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:-1 ,ТВЦ
+#EXTGRP:Российские
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 #EXTINF:0 type="stream" channelId="1811", Оплoт 2
 http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1,Губерния Самарская
+#EXTGRP:Российские
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1,МТВ
+#EXTGRP:Российские
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Российские
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="634", 100 news
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:0 type="stream" channelId="1104", IZ.RU
@@ -125,6 +140,36 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", belgorod
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1, СПАС
+#EXTGRP:Российские
+http://spastv.ru/playlist.m3u8
+#EXTINF:-1,Астрахань 24
+#EXTGRP:Российские
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1,Euronews
+#EXTGRP:Российские
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,ТНТ MUSIC HD
+#EXTGRP:Музыка
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1,РORTAL FOXMIX TV
+#EXTGRP:Музыка
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+#EXTGRP:Кино
+http://81.23.184.67:4022/udp/234.0.0.95:2000
+#EXTINF:-1,Б-Кінозал
+#EXTGRP:Кино
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Королев ТВ
+#EXTGRP:Кино
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1,Millenium TV HD
+#EXTGRP:Кино
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:0,Filmzone ATV 
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s48/04.m3u8  
 #EXTINF:0 type="stream" channelId="121", Калейдоскоп
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTINF:0 type="stream" channelId="4162", Липецкое Время
@@ -163,6 +208,15 @@ http://92.43.140.249/s44/04.m3u8?codec=mpeg4
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:0 type="stream" channelId="171", Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Познавательные
+http://213.226.137.133:81/tl/l13/mpegts
+#EXTINF:-1,Travel HD
+#EXTGRP:Познавательные
+http://213.226.137.133:81/tl/l14/mpegts
+#EXTINF:-1,Оружие
+#EXTGRP:Познавательные
+http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:0 type="stream" channelId="234", HDL
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0 type="stream" channelId="172" , Viasat Nature
@@ -333,6 +387,69 @@ https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:0 type="stream" channelId="915", AMEDIA PREMIUM HD
 http://109.239.128.126:8080/amedia_premium/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Сарафан
+#EXTGRP:Разные
+http://86.57.178.105:10822
+#EXTINF:-1,Небеса ТВ7
+#EXTGRP:Разные
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,АРИС 24 HD (Кумертау)
+#EXTGRP:Разные
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,Первый Псковский
+#EXTGRP:Разные
+http://194.190.78.91/pskov/rewind-10800.m3u8?941586610453a
+#EXTINF:-1,Лотос 24 HD Астрахань
+#EXTGRP:Разные
+https://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Щёлково ТВ (Щёлково)
+#EXTGRP:Разные
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1,Ветта 24
+#EXTGRP:Разные
+http://serv24.vintera.tv:8081/vetta/vetta_office/chunks.m3u8
+#EXTINF:-1,ОТВ Одинцово
+#EXTGRP:Разные
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1,ТКР Рязань
+#EXTGRP:Разные
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/chunklist.m3u8
+#EXTINF:-1,БСТ24 Братск
+#EXTGRP:Разные
+https://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1,Тольятти 24
+#EXTGRP:Разные
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1,ТВЖ HD (Аша)
+#EXTGRP:Разные
+http://37.79.254.224:1234/hls2/tvg.m3u8
+#EXTINF:-1,Тивиком (Улан-Удэ)
+#EXTGRP:Разные
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1,Селенга-ТВ (Улан-Удэ)
+#EXTGRP:Разные
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1,РГВК Дагестан HD (Махачкала)
+#EXTGRP:Разные
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1,KTV (Кизилюрт)
+#EXTGRP:Разные
+http://185.78.112.46:8077/KTV/index.m3u8
+#EXTINF:-1,10 канал Новокузнецк
+#EXTGRP:Разные
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:-1,ТК Алмазный край (Мирный)
+#EXTGRP:Разные
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1,Кубань 24 Орбита (Краснодар)
+#EXTGRP:Разные
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:-1,Ника ТВ (Калуга)
+#EXTGRP:Разные
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1,ТРК Евразия (Орск)
+#EXTGRP:Разные
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:0 type="stream" channelId="168", Индийское кино
 http://46.174.83.66/Indiiskoe_kino/mpegts
 #EXTINF:0 type="stream" channelId="208", Fox HD
@@ -649,6 +766,12 @@ http://78.58.133.179:28000/play/a004/index.m3u8
 http://78.58.133.179:28000/play/a075/index.m3u8
 #EXTINF:0 type="stream" channelId="4764", Блокбастер FHD
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/61727/hlsx/pl.m3u8
+#EXTINF:-1,Хабар 24
+#EXTGRP:Разные
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1,MIXM TV
+#EXTGRP:Разные
+http://89.179.247.144/mixm.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV 1000 World Kino HD
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/54329/hlsx/pl.m3u8
 #EXTINF:0 type="stream" channelId="194", Комедия ТВ
