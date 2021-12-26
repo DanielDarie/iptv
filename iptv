@@ -168,7 +168,7 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Звезда
-https://s30.glaz.tv:8082/liveg/zvezda-hq.stream/chunks.m3u8?nimblesessionid=72970951&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMSAxMDoyMDo1MiBQTSZoYXNoX3ZhbHVlPU00RXdwUHpTLzZMWHVtWjlGNzM5VkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Первый республиканский
