@@ -133,6 +133,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Galaxy TV
+http://188.40.68.167/russia/galaxy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Konii Mir
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Drive
@@ -169,10 +171,14 @@ http://rtmp.one.by:2300
 http://rtmp.one.by:2200
 #EXTINF:0 type="stream" channelId="-1", Первый Музыкальный
 http://rtmp.one.by:1300
+#EXTINF:0 type="stream" channelId="-1", ПVP Remix
+http://sergiymak.catcast.tv/content/37316/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Муз TV
 http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Eurodance 90
+http://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ТНТ MUSIC HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Шансон ТВ
@@ -193,6 +199,14 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radnoi Kanal
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Obcom TV
+http://www.omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Orbita
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTK Zaibaicale
+https://stream.zrtk.ru/zrtk.m3u8
 #EXTINF:0 type="stream" channelId="-1", Iacutia
 http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Iamal Raion
@@ -215,6 +229,16 @@ http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Enter film
+http://iptv.prosto.tv:7000/ch54/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", UA Bucovina
+http://iptv.prosto.tv:7000/ch221/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star Cinema
+http://iptv.prosto.tv:7000/ch56/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", UA TV
+http://95.67.106.243/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AVD Normax
+http://autopilot.catcast.tv/content/40660/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Pervii Iaroslavschii
 http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" channelId="-1", Moscva Doverie
