@@ -171,6 +171,8 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kino+1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:0 type="stream" channelId="-1", Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Первый республиканский
