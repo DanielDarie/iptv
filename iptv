@@ -77,6 +77,12 @@ http://212.0.215.115/AgroTV/mpegts
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Minimax
 http://212.0.215.115/Minimax/mpegts
+#EXTINF:0 type="stream" channelId="-1", Disney
+http://188.40.68.167/russia/disney/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Karuseli
+http://85.192.10.131/hls/Karusel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Minimania
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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", Vocea Basarabiei
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:0 type="stream" channelId="-1", THT Exclusive
@@ -105,12 +111,20 @@ http://188.40.68.167/russia/oruzhie/playlist.m3u8
 http://213.226.137.133:81/tl/l14/mpegts
 #EXTINF:0 type="stream" channelId="-1", Discovery Science HD
 http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTD Documentary
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0 type="stream" channelId="-1", Travel Adventure
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", U Travel
+http://api-tv.ipnet.ua/api/v1/manifest/2118742599.m3u8
 #EXTINF:0 type="stream" channelId="-1", Investigation Discovery HD
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/51073/hlsx/pl.m3u8
 #EXTINF:0 type="stream" channelId="-1", Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nat Geo Wild
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bolsaia Azia
+https://stream.sputnik24.tv/bigasia_720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viasat Nature
@@ -119,6 +133,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Konii Mir
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Drive
 http://46.174.83.66/Drive/mpegts
 #EXTINF:0 type="stream" channelId="-1", Zagorodnaii
@@ -177,8 +193,38 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Iacutia
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Iamal Raion
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", 4 Ekatenburg
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Almaznai Krai
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kamciatca
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVTZ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Russia K
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Russia RTR
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", LOtus TV
+http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Len TV
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pervii Iaroslavschii
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:0 type="stream" channelId="-1", Moscva Doverie
+http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Enisei
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bmeste RF
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Astrahani 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lava RU
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 #EXTINF:0 type="stream" channelId="-1", Kino+1 International
@@ -253,6 +299,14 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Страна FM TV
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CGTN RU
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Paramond Channel
+http://russia2.livetv.az/russia/paramount/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Paramond Comedy
+http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Taina TV
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIP Megahit
