@@ -95,6 +95,8 @@ http://88.86.215.73:1982/udp/230.200.201.215:1234
 http://213.226.137.133:81/tl/l13/mpegts
 #EXTINF:0 type="stream" channelId="-1", Zoo TV
 http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", ZooPark
+http://46.174.83.66/Zoopark/mpegts
 #EXTINF:0 type="stream" channelId="-1", Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Оружие
