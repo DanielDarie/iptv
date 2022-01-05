@@ -175,6 +175,20 @@ http://89.187.189.107/192/video.m3u8
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dacea
 http://iptv.prosto.tv:7000/ch92/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Телепутешествия
+http://ott-cdn.ucom.am/s71/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Космический HD
+http://92.43.140.249/s44/04.m3u8?codec=mpeg4
+#EXTINF:0 type="stream" channelId="-1", Доку HD
+https://ed-nl-01.mycdn.video/docu/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fotbal
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", EuroSport 2
@@ -199,20 +213,7 @@ v#EXTINF:0 type="stream" channelId="-1", Konii mir
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Konii Mir 2
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", HDL
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1", Телепутешествия
-http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", Наука
-http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", Ники ТВ
-http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Космический HD
-http://92.43.140.249/s44/04.m3u8?codec=mpeg4
-#EXTINF:0 type="stream" channelId="-1", Доку HD
-https://ed-nl-01.mycdn.video/docu/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Министерство идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:0 type="stream" channelId="-1", Первый Музыкальный
