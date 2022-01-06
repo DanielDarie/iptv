@@ -103,10 +103,14 @@ http://143.47.177.154/craciun/fericit/ctcmega/index.m3u8
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Пятница HD International
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fresh
-https://freshtv.catcast.tv/content/33718/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", НТВ МИР
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТНТ
+http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Охотник и Рыболов
 http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Охотник и Рыболов
+http://ott-cdn.ucom.am/s62/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", OHOTA I RYBALKA
 http://88.86.215.73:1982/udp/230.200.201.215:1234
 #EXTINF:0 type="stream" channelId="-1", TRofei
@@ -240,6 +244,10 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Шансон ТВ
 http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bridge TV
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bridge HIT
+http://ott-cdn.ucom.am/s34/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Muzica Kino
 http://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Радио Шансон TV
