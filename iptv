@@ -169,9 +169,9 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2799", Travel HD
 http://212.0.215.106/Travel/mpegts
-#EXTINF:0 type="stream" channelId="2799", Discovery
+#EXTINF:0 type="stream" channelId="-1", Discovery
 http://212.0.215.106/Discovery/mpegts
-#EXTINF:0 type="stream" channelId="2799", DTX
+#EXTINF:0 type="stream" channelId="-1", DTX
 http://212.0.215.106/DTX/mpegts
 #EXTINF:0 type="stream" channelId="1508", Discovery Science HD
 http://31.173.178.110:8004/play/a09r/index.m3u8
