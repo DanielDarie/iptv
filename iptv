@@ -59,6 +59,8 @@ http://143.47.177.154/craciun/frumos/rutvmd/index.m3u8
 http://143.47.177.154/craciun/frumos/zonam/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tezaur
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CTB Comrat
+http://188.138.130.130:8080
 #EXTINF:-1, Diaspora Media
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 #EXTINF:-1, TCB Tiraspol
@@ -73,12 +75,16 @@ http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:0, Antena 1
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+#EXTINF:0, Antena Stars
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Agro TV
 http://212.0.215.115/AgroTV/mpegts
 #EXTINF:0 type="stream" channelId="-1", Ren TV
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_HLS/variant.m3u8?version=2
 #EXTINF:0 type="stream" channelId="-1", CTC
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:0, CTC LOVE
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAclBMVEX///8ud70xeb4ib7kfbbi91Op3p9QrdbwmcrqGsNmUud20zuf2+fz7/f4lcbo4fsDr8vlEhcTd6fRQjch+q9Zhmc3N3u9Xksqjw+LZ5vMXaLbv9fponc9LisY9gcKDrtjI2+620OiryOWPttydv+AQZLQoN+M1AAAJXElEQVR4nO2aeXejLBSHEUwgiaJm1yzN0n7/rziXRQO4VDudaf+4z3nPvD0SlB9wuYsSgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIMp20Rd/1X8DPTtV/YhZyz9Xl8t5q+AUMLcmzksxFVg/YVmT7IdhPEVdVLNuXpayeZEDKnNGIOrCVErJg9KeIDvNzFnU2yduAkqQQkUMtJKbRz0CjS0Iu0v5tR0HNX6JIenWkZC/cMf+0ECrjam+FwP6ygjiTMQcx8bx/SVKydAf9w0KonM8WpREiD8fjWVKlI1sen1QrWQ2ZyY69Rv2zQiibk+c51ULkgSx2ZKvGxss1zfdCSaJ5vw6SZ/yXCIn4mmSVWhGw7Bm5iCRXQzqT94+Hnm8qd/06UjJjv0MI5dckuXIQIoSga3Khp7SQPF5qIYtYcNhcyyEzeY37h4Vkp/QagxC2KWSphCRZdoifZPmxIvN4l4Gd8P2QmRxqM/lhG5F3coYzdnMhJ74gh4zc4z05Z2T1sSd0q7YOlZd+HSlZ10d2h5D/6g2L8nQs19vitKd8NXvcrnJFdvG8XJZnOHuPgtKMvQ2ZySqWQgLChCiOECpY/H9g+r8MfEYcq4dW2bWKGeMVq0TB4N/I/EwNsV/L83LQXGa+EMo32/n/of2cc3P97F5ejA3oPSHx+8hef01f/DHkOobxj7Flf5bVSsDGZmRdPyOrVWdvcg5H8DUhQwd3ngdtSTm0fV+UnY+9di0+xFAfCzLutu2+A0LcmSk3id+YFLO+R/qT/N7+WUrePp7tEYO/lvHu9CUlo1fkxIKIISnkYFhXs63aglNyEzEEWq3ua8iSipFLHd6yX8h9vm14m9P4HAgR8th5z3zr8HYRvCNJSouIbcLdCpcvgsroTqZXH/qFqOV33Ao42thzT0nBI+jQwdrzRhzi2FaooRLTjF3bc3+WKiXpvO3XhTyl54mDdiUkihddQgIXDkrWwYjV3qJUwNwHl5+xSsfj+beuSDsKY46jBSEmkWsLibjfjcpraxepTUQj5h9ecC7rSDDcxt8thEbyZbhaSOcjW0JU+Hfqei7M/da/nmf6rtFgVvXXQhS3ut0IgU67cBu0hYCv3YTOfC+jrrk/myURgxH8V4U42x1SuNQTEkUidHmNEMdOMj8FTxO9t/RiOd0TYyRqKMd/IcQpnVVtIWDJPUK4dDp6QvYrogpq4UOXJ8hDzNXtPxCS7V4cmpPxUyGUF2en48196AO8qy1OyUNzPS/yurNz9duE9NzzcyHdXsbcmp/qvRXxsr56r/b2KqT0p57OXxciviykv4B7hrilMQcbjKVk/nGsrb2R97uFJIXyP+HeOumrSytvMDecJsR6dj5ZiD2qZG8MWnJ+VeeWKZNGa/O8mRQbAv+a83rxfUJMrMWqYqoQE2uxj56xgK3HlDl7Sx+1qXpbAH4wp0bIQHlumhAV/b4p5tpmkzB96BeSv21Nx5np2A7i4eRVLt3uLTtmdUP1NmEjzZHXX46fKsSjnAdK+oX4vHUE8QdJ9XsDPeZIx5S6CKqrBnNbeJtm7WMyRP33OgwPB4Q4CTdsGBGGvuR0ha4w+fXeYubVWUxVZZscjUtko9K2cULcn63D+G7cisD4qmuoZK/iZrBm/UdtD/p+cgMBvvzs8J4mJCXvxebFBZq95GPARjYuGRW+Em3rEBaqeqixB1HAn3b8eR0Ay2mR/KAfqbhsUK8sPCUDp5YQTj8OA/XSEb2JTIBrnIa6L5yRekepDXew6iZZ+6Afcd4KRdQu9xghNMxjZOElVmak7KkcSmQl2dBEWfvWjOiTQ2SCkHY+4oZPI6JfX0mD3TvaMg6w0hLcIOwsM1Ww6A9j7bK33PQNQjhtYrkpQiJaNdWtFFIqY+IL8DGwt9RjkzqoV37SuJdBZ/BFIU4B4jpJyCuzYseXEHu+6lSrVO9zSuIFvfp01jncBEYJ4aKGZZOENP24uyLzuI5vU7W3xI7Ub86VH0kbax94zfMlIVS+l/sGv4oyJASm99Z0uzk2shFRPfkpWTJ5hJ1Vu8b6Y4zIOPxvFaKPxDZjMsTOR+aZ7mYjrJJnSqMJViL1t3oVRe1zv6Ma7wiZvcrS04Scmignfd325sfpl501lVfIW9p8pqP8/ddC2j3HCOlwaRAwuJkTeCv1f5tN2SPBlszYwFccv0FIkMvm6vjY2M99bIplPtBQadbvFdJRXUjtXqqT3rq4ZaznG4TURWzRaXSfp7pdQlQYbeo9O+danaeb56fkbn37hHLjcKorzTvi3hUx1ceOVFcnuxXtEmIrcF5OfjD2r2IucwczHjah3DiUj+zfj5p3PdJwmZMsZhDdMsZCIaej5aHn14sX064qSWke//KASWEiyLHlxiQdnerCYRNmiPPd2aBHmvZmpruVt862Sv2qWzXnWLNI9Y9Glxvz3eWwuTYR3nCY9vjY9rbp8fbVFXfx3b1tRyXR7CzXAZo8hWdjy43ra8WdD7hcIXlAspTsVX8IW6F9V2kladhw2jFZb6NTnuype0CZUVD/kFvnyYNF/rINk5Lk4H5S5wq5UZp5UPMuwxwrD56F0CjWb5yf4uo3QE7GjvVNM3NmObYO0XBlrKb2fw94tB3Q2HIj/OrsfFPjCFFHIPfRIUQdbDwYj8J2W56A4DbsZxMyZZBRe4inDaNe2WRGzfQOfqHZUrKNmy9V3RWB0E1/LenkIuoXh8S2ziLuf0VsH0zM3AQNUZ0kH6R5GN87o8jVIfVyf+BrLjZsnOLbIZDu8SOQcrZSRPVy3LTeqAhb1eZTN3D3a9PyZoaovxbzbR2uZsLNo2DL72L17Pbr4EEegtOOU0sdi+F4Xu/8IK7IupSozZBsZLtFf3plSkHhwQp5FfXeGMMfb7Get/sEIXabtI/f4DthQxNawDwW7ZlXI0zJqWgpsW7a5Idqffwn3UQUTP4RpldVWibl7ftM20Pbjzxbb6hfMVJK8kscbD6qpxpariJsqeONBERSFhxHsFKB84PppRAdTTISbV1wRkUdDnERC5/44HRLDmFzdbY3zJj0Gnh1tEf3nkNgsychYQgEe1d9Uje1Jp8fsmtBO1Ky+yrg5nZLVmF7fRaUj6Dh0YRkt9X9PmJ8097qIgiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAjyb/gD50y/uiJ2B1UAAAAASUVORK5CYII=", TeleM
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Minimax
@@ -131,6 +137,8 @@ http://188.40.68.167/russia/oruzhie/playlist.m3u8
 http://213.226.137.133:81/tl/l14/mpegts
 #EXTINF:0 type="stream" channelId="-1", Discovery Science HD
 http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTG
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Maia Stihia
 http://46.174.83.66/Morskoi_HD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTD Documentary
@@ -143,6 +151,8 @@ http://api-tv.ipnet.ua/api/v1/manifest/2118742599.m3u8
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/51073/hlsx/pl.m3u8
 #EXTINF:0 type="stream" channelId="-1", Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Efir TV
+hhttp://89.232.125.186/online_tv_Efir/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nat Geo Wild
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bolsaia Azia
@@ -266,6 +276,10 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blue Crabs
+http://stream-norst.cf:8080/crabs/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star family
+http://31.43.48.248:7000/ch57/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dzerjinsc TV
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vsea Ufa
@@ -306,6 +320,8 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVTZ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:0 type="stream" channelId="-1", CE
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Russia K
 http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lava RU
@@ -348,6 +364,10 @@ http://iptv.prosto.tv:7000/ch170/video.m3u8
 http://95.67.106.243/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Inter
 http://lb1.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", IC TV
+http://iptv.prosto.tv:7000/ch2/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zacarpatie
+http://iptv.prosto.tv:7000/ch190/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", AVD Normax
 http://autopilot.catcast.tv/content/40660/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Pervii Iaroslavschii
@@ -374,6 +394,8 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Milet
+http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Русский Север
 http://rusevertv.ru/576/rs_crf28_.m3u8
 #EXTINF:0 type="stream" channelId="-1", Север
@@ -453,7 +475,11 @@ http://46.174.83.66/Indiiskoe_kino/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Siolcovaia TV
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ostrosiujetnoe
-http://37.187.28.95:2022/ostrosygetnoe/mpegts 
+http://37.187.28.95:2022/ostrosygetnoe/mpegts
+#EXTINF:0, Aist
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:0, KinoLux
+http://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIP Megahit
