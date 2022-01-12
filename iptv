@@ -89,7 +89,7 @@ http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Atomic
 http://atomic.streamnet.ro/atomictv.m3u8
-EXTINF:0 type="stream" channelId="-1", PartyTV
+#EXTINF:0 type="stream" channelId="-1", PartyTV
 http://tvparty.live/tvparty.m3u8
 #EXTINF:0 type="stream" channelId="4479", Etno TV
 http://212.0.215.106/EtnoTV/mpegts
