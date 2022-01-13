@@ -1,4 +1,4 @@
-#EXTM3U
+m#EXTM3U
 #EXTINF:0 type="stream" channelId="1100", Moldova 1
 https://peer.trm.md/static/streaming-playlists/hls/f74955cc-667e-4195-8396-c0a16735efcd/0.m3u8
 #EXTINF:0 type="stream" channelId="4512", Moldova 2
@@ -99,7 +99,8 @@ http://212.0.215.106/Favorit/mpegts
 http://212.0.215.106/TarafTV/mpegts
 #EXTINF:0 type="stream" channelId="1181", UTV
 http://212.0.215.106/UTV/mpegts
-#EXTINF:0 type="stream" channelId="-1", MOOZ RO
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-ro1.png",MoozRo (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:0 type="stream" channelId="-1", StudiouL
 http://212.0.215.106/StudioL/mpegts
