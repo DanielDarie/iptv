@@ -155,7 +155,7 @@ http://212.0.215.106/KanalD/mpegts
 #EXTINF:0 type="stream" channelId="2716", Agro TV
 http://212.0.215.115/AgroTV/mpegts
 #EXTINF:0 type="stream" channelId="11", Ren TV
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_HLS/variant.m3u8?version=2D
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 #EXTINF:0 type="stream" channelId="12", CTC
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:0 type="stream" channelId="1571", CTC LOVE
