@@ -159,8 +159,8 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0 type="stream" channelId="450", НТВ МИР
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", NTV R
-http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://195.245.97.133:8800/play/NTV/index.m3u8", NTV R
+http://195.245.97.133:8800/play/NTV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Pervii
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Russia RTR
@@ -274,12 +274,12 @@ https://stream.sputnik24.tv/bigasia_720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", OTDOR TV
 http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
 #EXTINF:0 type="stream" channelId="172", Viasat Nature
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nadture_ad_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 type="stream" channelId="165", Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:0 type="stream" channelId="166", Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:0 type="stream" channelId="1", Poehali
+#EXTINF:0 type="stream" channelId="1", Paehali
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Istoria
 http://ott-cdn.ucom.am/s40/04.m3u8
@@ -315,28 +315,20 @@ http://92.43.140.249/s44/04.m3u8?codec=mpeg4
 https://ed-nl-01.mycdn.video/docu/index.m3u8
 #EXTINF:0 type="stream" channelId="773", Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fotbal
-http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 type="stream" channelId="83", EuroSport 2
 https://95-213-172-221.livesports24.online/ruseurosport2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Setanta uc
 http://95.67.12.179:9002
 #EXTINF:0 type="stream" channelId="-1", Setanta SP+
 http://95.67.12.179:9003
-#EXTINF:0 type="stream" channelId="-1", Setanta SP
-https://95-213-224-182.livesports24.online/setantaplusru.m3u8
 #EXTINF:0 type="stream" channelId="-1", Setanta 4
 https://95-213-172-213.livesports24.online/setantaplusru.m3u8
-#EXTINF:0 type="stream" channelId="-1", EuroSport 4
-https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
 #EXTINF:0 type="stream" channelId="-1", Konii Mir
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Biliard
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=913
 #EXTINF:0 type="stream" channelId="-1", Astrahani Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", fudbol
-http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:0 type="stream" channelId="-1", Konii Mir 2
@@ -349,14 +341,10 @@ http://rtmp.one.by:2300
 http://rtmp.one.by:2200
 #EXTINF:0 type="stream" channelId="1761", Первый Музыкальный
 http://rtmp.one.by:1300
-#EXTINF:0 type="stream" channelId="-1", Eurodance 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Retrodance 90
 https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vostoc TV
 http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
-#EXTINF:0 type="stream" channelId="-1", ПVP Remix
-http://sergiymak.catcast.tv/content/37316/index.m3u8
 #EXTINF:0 type="stream" channelId="2285", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Муз TV
@@ -388,7 +376,7 @@ http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:0 type="stream" channelId="1039", Арсенал
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 type="stream" channelId="223", Оружие
-http://188.40.68.167/russia/oruzhie/playlist.m3u8
+http://193.33.88.172/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="3922", Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0 type="stream" channelId="17", Звезда
@@ -402,7 +390,7 @@ http://193.33.88.172:8080/rus-bestseller/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kino+1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:0 type="stream" channelId="4784", Tele Cafe
-http://94.158.54.54:4000/play/a011/index.m3u8
+http://178.163.38.155:4022/udp/234.0.0.249:2000
 #EXTINF:0 type="stream" channelId="-1", Fentezy HD
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lava RU
@@ -605,7 +593,7 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTINF:0 type="stream" channelId="4162", Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", \\\\\\\\\\\\\\\\\,Новый Мир
+#EXTINF:0 type="stream" channelId="-1", \\\\\\\\\\\\\\\\\\\\\,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="348", СТВ (Беларусь)
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
@@ -614,9 +602,9 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CGTN RU
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Paramond Channel
-http://russia2.livetv.az/russia/paramount/playlist.m3u8
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
 #EXTINF:0 type="stream" channelId="-1", Paramond Comedy
-http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:0 type="stream" channelId="-1", Indischie
 http://sergiymak.catcast.tv/content/37353/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Indiscoe Kino
