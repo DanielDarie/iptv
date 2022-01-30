@@ -110,7 +110,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 #EXTINF:0 type="stream" channelId="-1", MIXM TV
 http://89.179.247.144/mixm.m3u8
 #EXTINF:0 type="stream" channelId="-1", BRIDGE RUSKII XIT
-http://ott-cdn.ucom.am/s78/04.m3u8
+https://stream.sputnik24.tv/bridgerus/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", RUS 80/90
 http://140.238.127.147/streams/6.m3u8?token=iptv.org.ua
 #EXTINF:0 type="stream" channelId="47", Шансон ТВ
@@ -164,7 +164,7 @@ http://195.245.97.133:8800/play/NTV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Pervii
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Russia RTR
-http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0 type="stream" channelId="-1", rasiea 1
 http://cdnhls.goodgame.ru/hls/186021.m3u8
 #EXTINF:0 type="stream" channelId="-1", RASIA 1 RU
@@ -283,10 +283,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:0 type="stream" channelId="-1", Istoria
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nasa Siberia
-https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:0 type="stream" channelId="2035", Love nature
-https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/variant.m3u8
 #EXTINF:0 type="stream" channelId="391", Galaxy TV
 http://188.40.68.167/russia/galaxy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="171", DA VINCI
@@ -390,7 +386,7 @@ http://193.33.88.172:8080/rus-bestseller/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kino+1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:0 type="stream" channelId="4784", Tele Cafe
-http://178.163.38.155:4022/udp/234.0.0.249:2000
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fentezy HD
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lava RU
@@ -584,7 +580,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1104", IZ.RU
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Мосфильм Золотая Коллекция HD
-http://81.23.184.67:4022/udp/234.0.0.95:2000
+http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Filmzone ATV
@@ -593,7 +589,7 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTINF:0 type="stream" channelId="4162", Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", \\\\\\\\\\\\\\\\\\\\\,Новый Мир
+#EXTINF:0 type="stream" channelId="-1", \\\\\\\\\\\\\\\\\\\\\\\\\\\\\,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="348", СТВ (Беларусь)
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
@@ -843,3 +839,97 @@ http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", PRODVIJENIE
 http://185.184.234.181:81/udp/225.1.2.3:1234
+#EXTINF:0 type="stream" channelId="-1", BRIDJE RU FRES
+https://stream.sputnik24.tv/bridgef/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BRIDJE RU SLEHGER
+https://stream.sputnik24.tv/bridgesh/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", NATIONA GEOGRAFIC
+http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:0 type="stream" channelId="-1", CTV
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MAMA
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", RIJII
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Domasnii
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", FAST BOX
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", JimJam
+http://188.40.68.167/russia/jimjam/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dimgrad24
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Istoki tv
+http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Leninsk tv
+http://83.166.243.97:8081/ltv1360/1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", NTC
+http://air.nts-tv.ru/nts/sd/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTV
+https://e10-ll.facecast.net/rtv/1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Daiving tv
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tolpar tv
+http://81.30.52.114:80/tolpar_mobile/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fauna tv
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ealta tv
+http://195.26.83.96:7029/play/a006
+#EXTINF:0 type="stream" channelId="-1", KTR
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Liubimii tv
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Food Nework
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bucuresti tv
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0 type="stream" channelId="-1", VP TV
+http://89.38.8.130:39437
+#EXTINF:0 type="stream" channelId="-1", Taleati tv
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cubani tv
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Exo tv
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", Glazov tb
+https://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", DW
+http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Niki tv
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Peret tv
+http://91.185.3.218:4000/play/484
+#EXTINF:0 type="stream" channelId="-1", 365 dnei
+http://91.185.3.218:4000/play/2077
+#EXTINF:0 type="stream" channelId="-1", Dcufilm
+https://ed-nl-01.mycdn.video/docu/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Premium kino
+http://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Priboi tv
+http://185.78.112.46:8077/priboy_tv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV RAS
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="-1", DTV 6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0 type="stream" channelId="-1", TVM CANEL
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pameati tv
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", JarMarc tv
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:0 type="stream" channelId="-1", Multiscazki
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Catastrofa tv
+http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=7va3b5tb
+#EXTINF:0 type="stream" channelId="-1", Spaissream
+http://iptv.prosto.tv:7000/ch314/video.m3u8?secret=7va3b5tb
+#EXTINF:0 type="stream" channelId="-1", Zoostream
+http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
+#EXTINF:0 type="stream" channelId="-1", SOCI 24
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
